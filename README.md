@@ -1,2 +1,3 @@
-# upload-php-js
-Upload de arquivos utilzando PHP e Javascript
+## Upload de arquivos utlizando PHP + Javascript
+
+![Screenshot](img.png)
